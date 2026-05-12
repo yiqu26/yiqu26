@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:4a90d9&height=200&section=header&text=Hi,%20I'm%20LungYi%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ASP.NET%20MVC%20%C2%B7%20C%23%20%C2%B7%20React%20%C2%B7%20Taichung&descAlignY=58&descSize=18&descColor=d0e8ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Hi,%20I'm%20LungYi%20👋&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=ASP.NET%20MVC%20%C2%B7%20C%23%20%C2%B7%20React%20%C2%B7%20Taichung&descAlignY=58&descSize=18&descColor=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4a90d9&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+.NET+%2B+React;Building+complete+systems+end-to-end;Two+full-stack+projects+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+.NET+%2B+React;Building+complete+systems+end-to-end;Two+full-stack+projects+in+production" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yiqu26&style=flat&color=4a90d9&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=yiqu26&style=flat&color=58a6ff&label=profile+views" />
 </p>
 
 Backend developer focused on .NET and React. Currently open to junior / full-stack engineering roles in Taichung.
@@ -66,5 +66,5 @@ Backend developer focused on .NET and React. Currently open to junior / full-sta
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1e3a5f&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer" />
 </p>
