@@ -1,8 +1,12 @@
-# Hi, I'm LungYi 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:4a90d9&height=200&section=header&text=Hi,%20I'm%20LungYi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=ASP.NET%20MVC%20%C2%B7%20C%23%20%C2%B7%20React%20%C2%B7%20Taichung&descAlignY=58&descSize=18&descColor=d0e8ff" />
+</p>
 
-**ASP.NET MVC · C# · React · Taichung**
-
-Backend developer with a focus on .NET and React, with two complete projects in production.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4a90d9&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+.NET+%2B+React;Building+complete+systems+end-to-end;Two+full-stack+projects+in+production" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -37,7 +41,6 @@ Backend developer with a focus on .NET and React, with two complete projects in 
 | ⚙️ 員工後台 (React) | https://admin.ngo-management-hub.com |
 | 📁 GitHub | https://github.com/yiqu26/NGO-Admin-System |
 
-
 ---
 
 ### 🥾 Trail Guide　步道導覽平台
@@ -68,7 +71,6 @@ Backend developer with a focus on .NET and React, with two complete projects in 
 | 🌐 Live Demo | https://trail.ngo-management-hub.com |
 | 📁 GitHub | https://github.com/yiqu26/Trail-Guide |
 
-
 ---
 
 ## 🛠 Tech Stack
@@ -85,4 +87,15 @@ Backend developer with a focus on .NET and React, with two complete projects in 
 
 ---
 
-<sub>📍 台中 · 求職中 · 初階後端 / 全端工程師</sub>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yiqu26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiqu26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1e3a5f&height=100&section=footer" />
+</p>
