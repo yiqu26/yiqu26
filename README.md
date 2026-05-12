@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0a2e,100:0a0a0a&height=220&text=Hi,%20I'm%20LungYi&fontSize=52&fontColor=e2e2e2&fontAlignY=40&desc=ASP.NET%20MVC%20%C2%B7%20C%23%20%C2%B7%20React%20%C2%B7%20Taichung&descAlignY=60&descSize=18&descColor=a78bfa&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0d0d,50:0d1b2a,100:0d0d0d&height=220&text=Hi,%20I'm%20LungYi%20👋&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=ASP.NET%20MVC%20%C2%B7%20C%23%20%C2%B7%20React%20%C2%B7%20Taichung&descAlignY=60&descSize=18&descColor=58a6ff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=a78bfa&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+.NET+%2B+React;Building+complete+systems+end-to-end;Two+full-stack+projects+in+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+.NET+%2B+React;Building+complete+systems+end-to-end;Two+full-stack+projects+in+production" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yiqu26&style=flat&color=a78bfa&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=yiqu26&style=flat&color=58a6ff&label=profile+views" />
 </p>
 
 Backend developer focused on .NET and React. Currently open to junior / full-stack engineering roles in Taichung.
@@ -66,5 +66,5 @@ Backend developer focused on .NET and React. Currently open to junior / full-sta
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a0a2e,100:0a0a0a&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0d0d0d,50:0d1b2a,100:0d0d0d&height=100&section=footer" />
 </p>
