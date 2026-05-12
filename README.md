@@ -2,7 +2,7 @@
 
 **ASP.NET MVC · C# · React · Taichung**
 
-自學轉職開發者，透過資策會課程系統養成，完成兩個具備完整功能的獨立專案，涵蓋後端 API、前台 MVC、資料庫設計、金流串接與 AI 整合。
+Backend developer with a focus on .NET and React, with two complete projects in production.
 
 ---
 
@@ -37,26 +37,6 @@
 | ⚙️ 員工後台 (React) | https://admin.ngo-management-hub.com |
 | 📁 GitHub | https://github.com/yiqu26/NGO-Admin-System |
 
-<details>
-<summary>🔑 測試帳號</summary>
-
-**員工後台（React Admin）**
-| 角色 | 帳號 | 密碼 |
-|------|------|------|
-| 管理員 | admin@ngo.org | Admin123! |
-| 督導 | supervisor@ngo.org | Super123! |
-| 員工 | staff@ngo.org | Staff123! |
-
-**用戶前台（MVC Portal）**
-| 角色 | 帳號 | 密碼 |
-|------|------|------|
-| 一般用戶 | test.user@example.com | Test123! |
-| 個案用戶 | case02@example.com | case456 |
-
-**ECPay 測試信用卡**
-- 卡號：4311-9511-1111-1111　到期：12/25　CVV：222
-
-</details>
 
 ---
 
@@ -88,14 +68,6 @@
 | 🌐 Live Demo | https://trail.ngo-management-hub.com |
 | 📁 GitHub | https://github.com/yiqu26/Trail-Guide |
 
-<details>
-<summary>🔑 測試帳號</summary>
-
-| 帳號 | 密碼 |
-|------|------|
-| test@example.com | Test123! |
-
-</details>
 
 ---
 
