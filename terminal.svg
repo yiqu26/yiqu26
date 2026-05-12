@@ -1,0 +1,64 @@
+<svg width="800" height="148" xmlns="http://www.w3.org/2000/svg">
+  <!-- Window -->
+  <rect width="800" height="148" rx="8" fill="#010409" stroke="#30363d" stroke-width="1"/>
+  <!-- Title bar -->
+  <rect width="800" height="28" rx="8" fill="#161b22"/>
+  <rect y="20" width="800" height="8" fill="#161b22"/>
+  <rect x="0" y="27" width="800" height="1" fill="#30363d"/>
+  <!-- Dots -->
+  <circle cx="18" cy="14" r="5" fill="#ff5f57"/>
+  <circle cx="36" cy="14" r="5" fill="#febc2e"/>
+  <circle cx="54" cy="14" r="5" fill="#28c840"/>
+  <!-- Title -->
+  <text x="400" y="19" text-anchor="middle" fill="#8b949e" font-size="11" font-family="Courier New, monospace">terminal</text>
+
+  <!-- Line 1: prompt -->
+  <text x="20" y="56" fill="#58a6ff" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.1s" fill="freeze"/>
+    ~ $
+  </text>
+  <text x="50" y="56" fill="#e6edf3" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="0.1s" fill="freeze"/>
+    whoami
+  </text>
+
+  <!-- Line 2: output -->
+  <text x="20" y="74" fill="#3fb950" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.1s" fill="freeze"/>
+    &gt;
+  </text>
+  <text x="36" y="74" fill="#8b949e" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.1s" fill="freeze"/>
+    Backend developer | .NET + React
+  </text>
+
+  <!-- Line 3: prompt -->
+  <text x="20" y="98" fill="#58a6ff" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.1s" fill="freeze"/>
+    ~ $
+  </text>
+  <text x="50" y="98" fill="#e6edf3" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.1s" fill="freeze"/>
+    open_to
+  </text>
+
+  <!-- Line 4: output -->
+  <text x="20" y="116" fill="#3fb950" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.1s" fill="freeze"/>
+    &gt;
+  </text>
+  <text x="36" y="116" fill="#8b949e" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.1s" fill="freeze"/>
+    Junior / full-stack roles · Taichung
+  </text>
+
+  <!-- Line 5: cursor -->
+  <text x="20" y="136" fill="#58a6ff" font-size="13" font-family="Courier New, monospace" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.1s" fill="freeze"/>
+    ~ $
+  </text>
+  <rect x="50" y="124" width="8" height="14" fill="#58a6ff" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="3.3s" dur="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0;1" begin="3.5s" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
