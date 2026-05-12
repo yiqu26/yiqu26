@@ -6,6 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4a90d9&center=true&vCenter=true&width=500&lines=Backend+developer+%7C+.NET+%2B+React;Building+complete+systems+end-to-end;Two+full-stack+projects+in+production" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yiqu26&style=flat&color=4a90d9&label=profile+views" />
+</p>
+
+Backend developer focused on .NET and React. Currently open to junior / full-stack engineering roles in Taichung.
+
 ---
 
 ## Projects
@@ -58,14 +64,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-
----
-
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiqu26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1e3a5f&height=100&section=footer" />
