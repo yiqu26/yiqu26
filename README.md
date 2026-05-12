@@ -3,14 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=%7E+%24+whoami;%3E+Backend+developer+%7C+.NET+%2B+React;%7E+%24+status;%3E+Two+full-stack+projects+in+production;%7E+%24+%E2%96%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=%7E+%24+whoami;%3E+Backend+developer+%7C+.NET+%2B+React;%7E+%24+status;%3E+Two+full-stack+projects+in+production;%7E+%24+location;%3E+Open+to+junior+%2F+full-stack+roles+in+Taichung;%7E+%24+%E2%96%8C" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yiqu26&style=flat&color=58a6ff&label=profile+views" />
 </p>
-
-Backend developer focused on .NET and React. Currently open to junior / full-stack engineering roles in Taichung.
 
 ---
 
